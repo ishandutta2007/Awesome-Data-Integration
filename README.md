@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Integration?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Integration?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Integration?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Integration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Integration?style=flat-square" alt="License"/></a>
@@ -62,9 +62,9 @@ Below is a curated list of top SaaS products sorted by estimated company valuati
 
 Open-source data integration projects give engineering teams full control over data privacy, self-hosting, and connector customization.
 
-The list below is sorted by **GitHub Star Count** (descending).
+The list below is sorted by **GitHub Stars_Count** (descending).
 
-| Project | Description | Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | 💨 **[Apache Airflow](https://github.com/apache/airflow)** | Programmatically author, schedule, and monitor complex data engineering pipelines as Python DAGs. | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) |
 | 🪵 **[Apache Kafka](https://github.com/apache/kafka)** | Distributed event streaming platform featuring **Kafka Connect** for scalable, fault-tolerant connector streaming. | [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) |
@@ -112,7 +112,7 @@ We welcome community contributions to expand and maintain this list!
 
 1. **Fork** this repository.
 2. Edit `README.md` following the tabular layout.
-3. Ensure entries include exact pricing, free tier details, company valuation, and star count badges.
+3. Ensure entries include exact pricing, free tier details, company valuation, and Stars_Count badges.
 4. Submit a **Pull Request** with a clear title and summary of changes.
 
 ---
